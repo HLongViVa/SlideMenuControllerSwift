@@ -40,7 +40,7 @@ public struct SlideMenuOptions {
     public static var panGesturesEnabled: Bool = true
     public static var tapGesturesEnabled: Bool = true
 }
-
+//test comment
 open class SlideMenuController: UIViewController, UIGestureRecognizerDelegate {
 
     public enum SlideAction {
