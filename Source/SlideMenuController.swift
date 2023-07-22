@@ -17,7 +17,7 @@ import UIKit
     @objc optional func rightWillClose()
     @objc optional func rightDidClose()
 }
-
+//test commit
 public struct SlideMenuOptions {
     public static var leftViewWidth: CGFloat = 270.0
     public static var leftBezelWidth: CGFloat? = 16.0
